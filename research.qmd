@@ -9,10 +9,10 @@ comments: false
 - Utilize cluster computing to process ATAC-seq data from raw reads with PEPATAC pipeline
 - Conduct gene annotation and differential expression analysis in R
 
-2. Assessment of Lateral Gene Transfer and Dietary Intake in IBD [slides](docs/COVID Corps Recap.pptx.pdf)
+2. Assessment of Lateral Gene Transfer and Dietary Intake in IBD ([slides](docs/covid_corps_recap.pdf))
 
 - Evaluate relationship between IBD, diet, and LGT in gut metagenomes through network modeling
 - Review literature for metagenomic datasets and perform data harmonization
 
-3. Abstract: [Perturbed Gut Viral Ecology in Inflammatory Bowel Disease: a Multi-cohort Study](docs/ddw2025_ibd-virone.pdf)
+3. Abstract: [Perturbed Gut Viral Ecology in Inflammatory Bowel Disease: a Multi-cohort Study](docs/ddw2025_ibd-virome.pdf)
 
