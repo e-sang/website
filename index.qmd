@@ -8,13 +8,11 @@ about:
           url: https://github.com/e-sang
         - text: Email
           url: mailto:esang@g.ucla.edu
-        - text: Resume
-          url: docs/sang_resume_2024.pdf
 image: "docs/profile_picture.jpg"
 
 ---
 
 ## Bio
 
-I am a current third-year Statistics and Data Science and Computational and Systems Biology double major at UCLA. My research interests include health disparities, disease etiology, and genomics. In the future, I hope to pursue a PhD in Biostatistics. 
+I am a current third-year Statistics and Data Science and Computational and Systems Biology double major at UCLA. My research interests include health disparities, disease etiology, and genomics. In the future, I hope to pursue a PhD in Biostatistics. Here is my [resume](docs/sang_resume.pdf).
 
