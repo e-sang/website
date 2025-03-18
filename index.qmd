@@ -1,11 +1,20 @@
 ---
-title: "stats140xp-website"
+title: "Evan Sang"
+about:
+    template: trestles
+    links:
+        - icon: github
+          text: Github
+          url: https://github.com/e-sang
+        - text: Email
+          url: mailto:esang@g.ucla.edu
+        - text: Resume
+          url: "docs/resume.pdf"
+image: "docs/profile_picture.jpg"
+
 ---
 
-This is a Quarto website.
+## Bio
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a current third-year Statistics and Data Science and Computational and Systems Biology double major at UCLA. My research interests include health disparities, disease etiology, and genomics. In the future, I hope to pursue a PhD in Biostatistics. 
 
-```{r}
-1 + 1
-```

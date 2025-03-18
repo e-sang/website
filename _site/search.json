@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "stats140xp-website",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Evan Sang",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Differential Expression in Quiescent and Proliferating Cancer Cells\n\n\nUtilize cluster computing to process ATAC-seq data from raw reads with PEPATAC pipeline\nConduct gene annotation and differential expression analysis in R\n\n\nAssessment of Lateral Gene Transfer and Dietary Intake in IBD\n\n\nEvaluate relationship between IBD, diet, and LGT in gut metagenomes through network modeling\nReview literature for metagenomic datasets and perform data harmonization\n\n\nAbstract: Perturbed Gut Viral Ecology in Inflammatory Bowel Disease: a Multi-cohort Study"
+  },
+  {
+    "objectID": "research.html#research-projects",
+    "href": "research.html#research-projects",
+    "title": "Evan Sang",
+    "section": "",
+    "text": "Differential Expression in Quiescent and Proliferating Cancer Cells\n\n\nUtilize cluster computing to process ATAC-seq data from raw reads with PEPATAC pipeline\nConduct gene annotation and differential expression analysis in R\n\n\nAssessment of Lateral Gene Transfer and Dietary Intake in IBD\n\n\nEvaluate relationship between IBD, diet, and LGT in gut metagenomes through network modeling\nReview literature for metagenomic datasets and perform data harmonization\n\n\nAbstract: Perturbed Gut Viral Ecology in Inflammatory Bowel Disease: a Multi-cohort Study"
   },
   {
     "objectID": "about.html",
@@ -12,5 +19,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Evan Sang",
+    "section": "",
+    "text": "I am a current third-year Statistics and Data Science and Computational and Systems Biology double major at UCLA. My research interests include health disparities, disease etiology, and genomics. In the future, I hope to pursue a PhD in Biostatistics."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Evan Sang",
+    "section": "",
+    "text": "I am a current third-year Statistics and Data Science and Computational and Systems Biology double major at UCLA. My research interests include health disparities, disease etiology, and genomics. In the future, I hope to pursue a PhD in Biostatistics."
   }
 ]
